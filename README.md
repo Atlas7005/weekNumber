@@ -2,7 +2,7 @@
 
 Get the week number of any date.
 ## Installation
-Go to [releases](/releases/latest/)
+Go to [releases](https://github.com/Atlas7005/weekNumber/releases/latest)
 
 Download the matching executable for your operating system.
 
