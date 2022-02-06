@@ -74,3 +74,8 @@ typings/
 
 # FuseBox cache
 .fusebox/
+
+# Executables
+app-win.exe
+app-linux
+app-macos
